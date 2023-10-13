@@ -1,9 +1,24 @@
-header{
-    background-color:aquamarine;
-    color: white;
-    text-align: center;
-}
-
 body{
     background-color: rgb(189,183,107);   
+}
+
+h3{
+    float: right;
+    background-color:aquamarine;
+    
+}
+
+img {
+    border-radius: 50%;
+  }
+
+p{
+    float:right
+}
+
+h1{
+    text-align: center;
+    background-color: aquamarine; 
+    width: 400px;
+    height: 50px;
 }
