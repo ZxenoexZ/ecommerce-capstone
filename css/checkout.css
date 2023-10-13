@@ -13,3 +13,7 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+
+  body{
+    background-color: rgb(189,183,107);  
+}
