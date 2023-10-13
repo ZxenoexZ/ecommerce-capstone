@@ -17,3 +17,13 @@ table {
   body{
     background-color: rgb(189,183,107);  
 }
+
+img {max-width:15%;}
+
+h3{
+  float: right; 
+}
+
+button{
+  float: right;
+}
