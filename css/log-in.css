@@ -1,3 +1,7 @@
 body {
     background-color: rgb(189,183,107);   
 }
+
+h3{
+    float: right; 
+}
