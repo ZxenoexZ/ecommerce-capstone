@@ -7,6 +7,4 @@ Walt's CCS is an online revival of a classic thrift store chain that originated 
 
 Images:
 
-![Alt text](<Screenshot 2023-10-13 021039.png>)
-![Alt text](<Screenshot 2023-10-13 021313.png>) 
-![Alt text](<Screenshot 2023-10-13 021129.png>) ![Alt text](<Screenshot 2023-10-13 021146.png>) ![Alt text](<Screenshot 2023-10-13 021232.png>) ![Alt text](<Screenshot 2023-10-13 021244.png>) ![Alt text](<Screenshot 2023-10-13 021256.png>) ![Alt text](<Screenshot 2023-10-13 021307.png>)
+![Alt text](<Screenshot 2023-10-13 102542.png>) ![Alt text](<Screenshot 2023-10-13 102603.png>) ![Alt text](<Screenshot 2023-10-13 102652.png>) ![Alt text](<Screenshot 2023-10-13 102706.png>) ![Alt text](<Screenshot 2023-10-13 102718.png>) ![Alt text](<Screenshot 2023-10-13 102741.png>) ![Alt text](<Screenshot 2023-10-13 102751.png>) ![Alt text](<Screenshot 2023-10-13 102801.png>) ![Alt text](<Screenshot 2023-10-13 102812.png>) ![Alt text](<Screenshot 2023-10-13 102821.png>) ![Alt text](<Screenshot 2023-10-13 102831.png>)
