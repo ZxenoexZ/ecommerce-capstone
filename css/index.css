@@ -1,24 +1,30 @@
 body{
-    background-color: rgb(189,183,107);   
-}
-
-h3{
-    float: right;
-    background-color:aquamarine;
+    background: url(https://static.vecteezy.com/system/resources/previews/007/798/395/original/sofa-icon-illustration-interior-flat-cartoon-style-suitable-for-web-landing-page-banner-flyer-sticker-wallpaper-background-free-vector.jpg)  ;   
+    background-size: cover;
+    margin-bottom: 50rem;
     
+   
 }
 
-img {
-    border-radius: 50%;
-  }
-
-p{
-    float:right
+ul{
+    color: antiquewhite;
+    text-wrap: 10%;
 }
 
 h1{
-    text-align: center;
-    background-color: aquamarine; 
-    width: 400px;
-    height: 50px;
+    color:black;
+    margin-top: 5rem;
+}
+
+a{
+    background-color: blue;
+    border: none;
+    position: absolute;
+    right: 40%;
+    bottom: 50%;
+    padding: 20px 50px;
+   font-size: 30px;
+   font-weight: bold;
+   text-decoration: none;
+   color: antiquewhite;
 }
