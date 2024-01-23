@@ -1,6 +1,5 @@
 img {
   max-width:80%;
-  border-radius: 50%;
 }
 
 body{
@@ -14,7 +13,6 @@ h3{
 .container { 
     height: 50px;
     position: relative;
-    border: 3px solid green; 
   }
   
   .center {
@@ -26,7 +24,124 @@ h3{
     transform: translate(-50%, -50%);
   }
 
-div{
-    background-color: aqua;
-    border-radius: 120%;
+/* This is a comment in CSS */
+
+/* Set the font family and size for the whole document */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Set the margin and padding for the h3 element */
+h3 {
+  margin: 10px;
+  padding: 10px;
+}
+
+/* Set the display and alignment for the nav element */
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Set the size and position for the shopping cart image */
+nav img {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+
+/* Set the display and alignment for the card elements */
+.card {
+  display: inline-block;
+  margin: 20px;
+  vertical-align: top;
+}
+
+/* Set the size and border for the card images */
+.card-img-top {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border: 1px solid black;
+}
+
+/* Set the padding and background color for the card body */
+.card-body {
+  padding: 10px;
+  background-color: lightgray;
+}
+
+/* Set the color and font weight for the card text */
+.card-text {
+  color: darkblue;
+  font-weight: bold;
+}
+
+/* Set the color and text decoration for the card links */
+.card-link {
+  color: white;
+  text-decoration: none;
+  background-color: blue;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+/* Change the color and background color of the card links on hover */
+.card-link:hover {
+  color: blue;
+  background-color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  margin: 20px;
+}
+
+button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: #333;
+  text-align: center;
+}
+
+nav {
+  display: inline-block;
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #eee;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #04AA6D;
 }
