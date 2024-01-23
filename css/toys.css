@@ -5,7 +5,20 @@ img {
 
 body{
     background-color: rgb(189,183,107);  
+    position: relative;
 }
+
+.background::before {
+  content: "";
+    background-image: url(../images/stock-photo-toys-on-a-carpet.jpg);
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.1;
+} 
 
 h3{
     float: right; 
@@ -26,7 +39,38 @@ h3{
     transform: translate(-50%, -50%);
   }
 
-div{
+.card {
+    margin: auto;
+    width: 50%;
+    margin-top: 5rem;
+  }
+
+.my-btn {
+  background-color: rgb(1, 64, 1);
+  color:white;
+  border: none;
+  border-radius: 20px;
+  padding: 7px;
+
+}
+
+.my-btn:hover {
+  background-color: rgb(8, 234, 0);
+  transition: 0.7s;
+}
+
+.my-btn:focus {
+  outline-color: transparent;
+  outline-style: solid;
+  box-shadow: 0 0 0 3px rgb(242, 242, 202);
+}
+
+.my-btn:active {
+  background-color: brown;
+}
+
+
+/* div{
     background-color: aqua;
     border-radius: 120%;
-}
+} */
