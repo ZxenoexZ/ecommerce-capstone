@@ -8,12 +8,12 @@ body{
 
 ul{
     color: antiquewhite;
-    text-wrap: 10%;
+    text-wrap: 10px;
 }
 
 h1{
     color:black;
-    margin-top: 5rem;
+    margin-top: 5px;
 }
 
 a{
@@ -27,4 +27,10 @@ a{
    font-weight: bold;
    text-decoration: none;
    color: antiquewhite;
+}
+
+nav{
+
+
+
 }
